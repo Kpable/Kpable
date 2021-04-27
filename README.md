@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey! Welcome to my Github. While it's still a work in progress, here's some info!
+Hey! Welcome to my Github. Here's some info!
 
 🔭 I’m currently working on ...
 
@@ -31,14 +31,6 @@ Hey! Welcome to my Github. While it's still a work in progress, here's some info
   - Aseprite to Unity Workflows 
   - Unreal Engine 4
 
-💬 Ask me about ...
-
-  - Making games
-
 📫 How to reach me: ...
   
-  - By Email!
-
-⚡ Fun fact: ...
-
-  - I like the color red. Its even cooler if its black and red. But not red and black. Red and black is just alright. Not as cool. 
+  - By Email at lhreynos@gmail.com
