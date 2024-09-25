@@ -19,17 +19,14 @@ Hey! Welcome to my Github. Here's some info!
 
 🔭 I’m currently working on ...
 
-  -  Setting up Production and Development Pipelines for Possum House Games
-  -  Nine Cat Game Development
-  -  Possum House Prototypes
+  -  [Techtonica](https://store.steampowered.com/app/1457320/Techtonica/)
+  -  Procedurally generating a haunted mansion
+  -  An idle game system
   
 🌱 I’m currently learning ...
 
-  - Ins and outs of running an indie studio
-  - Marketing
-  - Blender with Sprytile and Unity workflows
-  - Aseprite to Unity Workflows 
-  - Unreal Engine 4
+  - Unreal Engine 5
+  - How to manage data for an idle game
 
 📫 How to reach me: ...
   
