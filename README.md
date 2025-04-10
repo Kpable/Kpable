@@ -7,8 +7,6 @@ Gameplay Programmer • Technical Designer • UI Engineer • Software Develope
 🛠️ Fluent in **C#**, **C++**, **Godot**, **Unity**, and **Unreal Engine**.  
 📐 UI enthusiast with a keen eye for player feedback, accessibility, and polish.
 
----
-
 ## 🔧 Tech Stack
 
 **Languages**  
@@ -26,14 +24,11 @@ Gameplay Programmer • Technical Designer • UI Engineer • Software Develope
 - ⚙️ Tools, Pipelines & Scripting  
 - 🧲 Game Feel, Input
 
----
 
 ## 🤝 Let’s Connect
 
 - 🌐 [Portfolio Website](https://lestherreynoso.com/)  
 - 💼 [LinkedIn](www.linkedin.com/in/lesther-reynoso)  
 - 🎮 [itch.io](https://kpable.itch.io/)
-
----
 
 *Thanks for stopping by! Feel free to explore or reach out for collaborations, feedback, or just to talk games.*
