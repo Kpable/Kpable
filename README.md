@@ -1,33 +1,39 @@
-### Hi there 👋
+# 🧛‍♂️ Hey, I’m Lesther
 
-<!--
-**Kpable/Kpable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gameplay Programmer • Technical Designer • UI Engineer • Software Developer
 
-Here are some ideas to get you started:
+🎮 Passionate about crafting immersive, expressive systems that feel great to play.  
+🧠 I design for clarity, flexibility, and fun—from moment-to-moment mechanics to long-term metagames.  
+🛠️ Fluent in **C#**, **C++**, **Godot**, **Unity**, and **Unreal Engine**.  
+📐 UI enthusiast with a keen eye for player feedback, accessibility, and polish.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-Hey! Welcome to my Github. Here's some info!
+## 🔧 Tech Stack
 
-🔭 I’m currently working on ...
+**Languages**  
+- C# • C++ • GDScript
 
-  -  [Techtonica](https://store.steampowered.com/app/1457320/Techtonica/)
-  -  Procedurally generating a haunted mansion
-  -  An idle game system
-  
-🌱 I’m currently learning ...
+**Game Engines & Tools**  
+- Unity • Unreal Engine • Godot
+- Git • PlasticSCM • SVN
+- FMOD • Editor tooling
 
-  - Unreal Engine 5
-  - How to manage data for an idle game
+**Focus Areas**  
+- 🕹 Gameplay Systems & Mechanics  
+- 🧪 Technical Design & Prototyping  
+- 🧩 UI/UX Programming  
+- ⚙️ Tools, Pipelines & Scripting  
+- 🧲 Game Feel, Input
 
-📫 How to reach me: ...
-  
-  - By Email at lhreynos@gmail.com
+---
+
+## 🤝 Let’s Connect
+
+- 🌐 [Portfolio Website](https://lestherreynoso.com/)  
+- 💼 [LinkedIn](www.linkedin.com/in/lesther-reynoso)  
+- 🎮 [itch.io](https://kpable.itch.io/)
+
+---
+
+*Thanks for stopping by! Feel free to explore or reach out for collaborations, feedback, or just to talk games.*
