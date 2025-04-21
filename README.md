@@ -28,7 +28,7 @@ Gameplay Programmer • Technical Designer • UI Engineer • Software Develope
 ## 🤝 Let’s Connect
 
 - 🌐 [Portfolio Website](https://lestherreynoso.com/)  
-- 💼 [LinkedIn](www.linkedin.com/in/lesther-reynoso)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lesther-reynoso)  
 - 🎮 [itch.io](https://kpable.itch.io/)
 
 *Thanks for stopping by! Feel free to explore or reach out for collaborations, feedback, or just to talk games.*
