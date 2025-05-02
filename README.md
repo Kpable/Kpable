@@ -3,7 +3,7 @@
 Gameplay Programmer • Technical Designer • UI Engineer • Software Developer
 
 🎮 Passionate about crafting immersive, expressive systems that feel great to play.  
-🧠 I design for clarity, flexibility, and fun—from moment-to-moment mechanics to long-term metagames.  
+🧠 I design for clarity, flexibility, and fun, from moment-to-moment mechanics to long-term metagames.  
 🛠️ Fluent in **C#**, **C++**, **Godot**, **Unity**, and **Unreal Engine**.  
 📐 UI enthusiast with a keen eye for player feedback, accessibility, and polish.
 
